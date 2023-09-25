@@ -1,0 +1,60 @@
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfo.cs
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.deps.json
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\refint\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\ref\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.dll
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+D:\C# Complete\Visitor\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CopyComplete
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.deps.json
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.dll
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfo.cs
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CopyComplete
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\refint\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Visitor\Host\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\ref\VisitorManagement.Infrastructure.dll
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.deps.json
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.dll
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.dll
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CopyComplete
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.dll
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\refint\VisitorManagement.Infrastructure.dll
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+C:\Users\p1357973\Downloads\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\ref\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.deps.json
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.dll
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.AssemblyInfo.cs
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.csproj.CopyComplete
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\refint\VisitorManagement.Infrastructure.dll
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\VisitorManagement.Infrastructure.pdb
+D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Infrastructure\obj\Debug\net6.0\ref\VisitorManagement.Infrastructure.dll
