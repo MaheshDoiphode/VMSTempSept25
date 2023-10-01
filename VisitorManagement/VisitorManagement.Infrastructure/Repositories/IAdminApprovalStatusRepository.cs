@@ -14,7 +14,7 @@ namespace VisitorManagement.Infrastructure.Repositories
         Task<AdminApprovalStatus> GetAdminApprovalStatusAsync(int hostVisitorRequestId);
         Task<bool> CreateAdminApprovalStatusAsync(AdminApprovalStatus adminApprovalStatus);
         Task<bool> UpdateAdminApprovalStatusToApprovedAsync(int requestId);
-        Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId);
+        Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId, string denialReason);
         Task<bool> UpdateAdminApprovalStatusToVisitCompleted(int requestId);
 
         //

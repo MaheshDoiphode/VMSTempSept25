@@ -40,10 +40,9 @@ namespace VisitorManagement.Application.Services
         {
             var request = _mapper.Map<HostVisitorRequest>(requestDTO);
             request.VisitDuration = requestDTO.CheckOutDateTime - requestDTO.ArrivalDateTime;
-            // Your business logic, validation, or additional operations can be added here
             var createdRequest = await _repository.CreateRequestAsync(request);
             requestDTO.Duration = createdRequest.VisitDuration;
-            requestDTO.HostVisitorRequestId = createdRequest.HostVisitorRequestId;
+            requestDTO.RequestId = createdRequest.HostVisitorRequestId;
 
             return _mapper.Map<HostVisitorRequestDTO>(request);
         }

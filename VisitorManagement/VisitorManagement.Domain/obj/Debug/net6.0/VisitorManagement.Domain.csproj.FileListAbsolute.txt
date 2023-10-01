@@ -46,3 +46,15 @@ D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visi
 D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\refint\VisitorManagement.Domain.dll
 D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.pdb
 D:\C# Complete\Updated\VisitorManagement (Visit)_Updated\VisitorManagement (Visit)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\ref\VisitorManagement.Domain.dll
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.deps.json
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.dll
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\bin\Debug\net6.0\VisitorManagement.Domain.pdb
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.AssemblyInfo.cs
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.dll
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\refint\VisitorManagement.Domain.dll
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\VisitorManagement.Domain.pdb
+C:\Users\p1357973\Downloads\VisitorManagement (5)\VisitorManagement\VisitorManagement.Domain\obj\Debug\net6.0\ref\VisitorManagement.Domain.dll

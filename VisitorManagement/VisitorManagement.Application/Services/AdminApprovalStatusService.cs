@@ -75,7 +75,7 @@ namespace VisitorManagement.Application.Services
             return true;
         }
 
-        public async Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId)
+        public async Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId, string denialReason)
         {
             var adminApprovalStatus = await _adminApprovalStatusRepository.GetAdminApprovalStatusAsync(requestId);
 
@@ -84,7 +84,7 @@ namespace VisitorManagement.Application.Services
                 throw new AdminApprovalStatusNotFoundException($"Admin Approval Status for Request with ID {requestId} not found.");
             }
 
-            await _adminApprovalStatusRepository.UpdateAdminApprovalStatusToDeniedAsync(requestId);
+            await _adminApprovalStatusRepository.UpdateAdminApprovalStatusToDeniedAsync(requestId, denialReason);
 
             return true;
         }

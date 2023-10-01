@@ -8,7 +8,7 @@ namespace VisitorManagement.Application.Services
         Task<AdminApprovalStatusDTO> GetAdminApprovalStatusAsync(int hostVisitorRequestId);
         Task<IEnumerable<AdminApprovalStatusDTO>> GetAllAdminApprovalStatusesAsync();
         Task<bool> UpdateAdminApprovalStatusToApprovedAsync(int requestId);
-        Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId);
+        Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId, string denialReason);
         Task<bool> UpdateAdminApprovalStatusToVisitCompleted(int requestId);
 
         //

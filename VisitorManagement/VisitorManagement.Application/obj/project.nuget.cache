@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ZQtijI9Qe873TbguFae73+YYjoL8ikcMEV0q4JlwSsVfJ74cjOngMO1jE6CC1qR5UA8fxlQOWLis9EErW2zHg==",
+  "dgSpecHash": "t1+SDVDNiOBP8lCeB5mZWY1PTiMaPmRk7i8OxfzoK4G1YieYFRgCoyasMTyhHtwQP3wYSZPsHGbjxxO56g3RjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
+  "projectFilePath": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\p1357911\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\p1357911\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

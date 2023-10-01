@@ -78,6 +78,34 @@ namespace VisitorManagement.Infrastructure.Migrations
                     b.ToTable("HostVisitorRequests");
                 });
 
+            modelBuilder.Entity("VisitorManagement.Domain.Common.VisitorEntity", b =>
+                {
+                    b.Property<string>("VisitorName")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnOrder(2);
+
+                    b.Property<string>("VisitorContactNumber")
+                        .HasColumnType("nvarchar(450)")
+                        .HasColumnOrder(3);
+
+                    b.Property<int>("VisitorEntityId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int")
+                        .HasColumnOrder(1);
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("VisitorEntityId"), 1L, 1);
+
+                    b.Property<string>("VisitorPersonalIdNumber")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("VisitorPersonalIdType")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("VisitorName", "VisitorContactNumber");
+
+                    b.ToTable("Visitors");
+                });
+
             modelBuilder.Entity("VisitorManagement.Domain.Common.AdminApprovalStatus", b =>
                 {
                     b.HasOne("VisitorManagement.Domain.Common.HostVisitorRequest", "HostVisitorRequest")

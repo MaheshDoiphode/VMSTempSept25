@@ -4,7 +4,7 @@ namespace VisitorManagement.Application.DTOs
 {
     public class HostVisitorRequestDTO
     {
-        public int HostVisitorRequestId { get; set; }
+        public int RequestId { get; set; }
         public string VisitorFullName { get; set; }
         public string VisitorEmailAddress { get; set; }
         public string VisitorPhone { get; set; }

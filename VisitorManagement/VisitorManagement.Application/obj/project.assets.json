@@ -11259,11 +11259,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
+      "projectUniqueName": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
       "projectName": "VisitorManagement.Application",
-      "projectPath": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
+      "projectPath": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Application\\VisitorManagement.Application.csproj",
       "packagesPath": "C:\\Users\\p1357911\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Application\\obj\\",
+      "outputPath": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\p1357911\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11281,11 +11281,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Domain\\VisitorManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Domain\\VisitorManagement.Domain.csproj"
+            "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Domain\\VisitorManagement.Domain.csproj": {
+              "projectPath": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Domain\\VisitorManagement.Domain.csproj"
             },
-            "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Infrastructure\\VisitorManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\p1357911\\Downloads\\VisitorManagement (6)\\VisitorManagement\\VisitorManagement.Infrastructure\\VisitorManagement.Infrastructure.csproj"
+            "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Infrastructure\\VisitorManagement.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\p1357911\\Downloads\\VMS_API\\VisitorManagement\\VisitorManagement.Infrastructure\\VisitorManagement.Infrastructure.csproj"
             }
           }
         }

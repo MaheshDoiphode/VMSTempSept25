@@ -39,10 +39,11 @@ namespace VisitorManagement.Infrastructure.Repositories
             await _context.SaveChangesAsync();
             return true;
         }
-        public async Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId)
+        public async Task<bool> UpdateAdminApprovalStatusToDeniedAsync(int requestId, string denialReason)
         {
             var request = await _context.AdminApprovalStatuses.FindAsync(requestId);
             request.Status = AdminApprovalStatus.ApprovalStatus.Denied;
+            request.AdminFeedback = denialReason;
             await _context.SaveChangesAsync();
             return true;
         }
